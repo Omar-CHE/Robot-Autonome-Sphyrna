@@ -17,13 +17,12 @@ Bienvenue sur le dépôt du projet Sphyrna, développé dans le cadre de mon cyc
 ## 📄 Documentation & Rapport d'Ingénierie
 Pour comprendre en détail l'architecture du système, les calculs mathématiques de la régulation PID et la gestion de projet Agile de notre équipe, vous pouvez consulter le rapport complet :
 
-📥 **[Lire le Rapport de Projet Sphyrna (PDF)](Documentation/Rapport_Sphyrna.pdf)**
 
 ## 💻 Architecture du Dépôt
 * `/Code_Embarque` : Contient le code source C++ (IDE Arduino).
 * `/Simulateur` : Scripts et assets liés à l'environnement de simulation.
 * `/Modelisation_3D` : Rendus du châssis.
-* `/Documentation` : Rapport technique détaillé du projet.
+
 
 ## 🛠️ Technologies & Outils
 * **Langages :** C++, Python (Pygame)
